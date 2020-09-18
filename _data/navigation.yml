@@ -2,11 +2,13 @@
 main:
   - title: "나의 네이버 블로그"
     url: https://blog.naver.com/jspark9236
+  - title: "TIL"
+    url: /til/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About"
-    url: https://byungchan-park.github.io/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
