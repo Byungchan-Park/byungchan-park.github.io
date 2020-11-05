@@ -8,7 +8,7 @@ categories:
 tags:
   - TIL
   - JavaScript
-last_modified_at: 2020-11-05T08:06:00-05:00
+last_modified_at: 2020-11-04T08:06:00-05:00
 ---
 
 ## console.log()와 typeof 메소드
